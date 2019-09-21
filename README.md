@@ -2,7 +2,8 @@
 
 # Bare Arduino Project 
 
-⚠️ ***Refer https://github.com/ladislas/Bare-Arduino-Project
+⚠️ ***Refer https://github.com/ladislas/Bare-Arduino-Project ***
+
 ⚠️ ***For mbed projects, see [Bare mbed Project](https://github.com/ladislas/Bare-mbed-Project).***
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
